@@ -34,4 +34,4 @@ For your endpoint to interact properly with this plugin it requires the followin
     * For success: `{"href": "http://example.com/<screenshot>"}`
     * For error: `{"error": "<Error> happened"}`
 
-[current]: https://dev.876974.ru/876974/scuploader/archive/master.zip
+[current]: https://github.com/3err0/scuploader/archive/master.zip
